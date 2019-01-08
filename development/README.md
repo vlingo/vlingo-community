@@ -8,6 +8,9 @@
 - Implementation follows the code style guidelines
 - Implementation has the proper testing. Unit tests are usually enough, but some cases might require integration tests.
 - Documentation
-  - If it exposes an API for third party → docs.vlingo.io
+  - If it exposes an API for third party → [docs.vlingo.io][docs]
   - If it's internal, a brief usage explanation on the same repository under `/docs` folder
-  - Desired to have `javadocs` since they are published automatically to javadoc.io/doc/io.vlingo/vlingo-actors
+  - Desired to have `javadocs` since they are published automatically to [javadoc.io/doc/io.vlingo/vlingo-actors][javadocs]
+
+[docs]: https://docs.vlingo.io
+[javadocs]: https://javadoc.io/doc/io.vlingo/vlingo-actors
