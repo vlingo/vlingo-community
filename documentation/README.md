@@ -36,6 +36,12 @@ Important architectural decisions should be documented under `/docs` folder on e
 
 Keep track of changes on `CHANGELOG.md` file on each component repository.
 
+## External material
+
+In case you prefer to make a tutorial, guideline or sample code in your own Blog, Medium, GitHub or a Video, we will link your work to help others reach your learning material.
+
+We keep the decision of listing or not.
+
 [docs]: https://docs.vlingo.io
 [examples]: https://github.com/vlingo/vlingo-examples
 [javadocs]: https://javadoc.io/doc/io.vlingo/vlingo-actors
