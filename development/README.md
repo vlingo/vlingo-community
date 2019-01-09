@@ -12,6 +12,23 @@
   - If it's internal, a brief usage explanation on the same repository under `/docs` folder
   - Desired to have `javadocs` since they are published automatically to [javadoc.io/doc/io.vlingo/vlingo-actors][javadocs]
 
+## Branches convention
+
+Usually, a branch is because of a new feature or bug fix related to a specific issue. The branch name should help others know what they will find in it.
+
+- __Bug fix__: `fix/<ISSUE_NUMBER>/<short description>`
+- __Feature/Task__: `task/<ISSUE_NUMBER>/<short description>`
+
+With this schema, people could find the issue related to the branch + all the explanation.
+
+## Pull Request
+
+- A Pull Request must only solve one issue.
+- It should refer the issue in the title
+- Ask the component responsible for a review + all people you think it might interest it
+- In case there's something of the Definition of Done still pending, add a comment in the Pull Request to help the reviewer.
+- We often reply in the same day, but it might take longer.
+
 ## Code style
 
 ### General
