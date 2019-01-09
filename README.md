@@ -12,7 +12,7 @@ Meanwhile the long term vision is lead by him, each component has at least one _
 
 - Mentor newcomers
 - Ensure the new features match the project vision
-- Takes into account that the team is capable to deliver
+- Takes into account what the team is capable to deliver
 - Review Pull Requests & checks if it meets the Definition of Done
 
 Each project has the list of collaborators and his/her roles. Notice people might be contributing in his/her free time.
