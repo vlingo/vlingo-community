@@ -1,31 +1,34 @@
 # vlingo-community
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/vlingo-platform-java/)
+
 :warning: __Work in progress__ :warning:
 
 ## Vision
+The vlingo/platform is the Domain-Driven Design friendly open source distributed computing platform simplifying reactive, event-driven, microservices architectures.
+
+We aggressively advance software developer DDD and Reactive capabilities to help deliver excellent software solutions. We are committed to balancing the right technology choices with your essential and unique business vision. We champion simplicity, which requires special discipline and determination.
 
 ## Governance
 
-Vlingo is an inclusive Open Source project lead by [Vaughn Vernon][vernon-gh].
+The vlingo/platform is an inclusive open source project lead by [Vaughn Vernon][vernon-gh], who provides long-term vision, architecture, and development. Each component has at least one _responsible champion_. The component champion is responsible for:
 
-Meanwhile the long term vision is lead by him, each component has at least one _responsible_. The component responsible is accountable of:
+- Mentoring newcomers
+- Ensuring that new features match the project vision
+- Takeing into account what the team is capable of delivering
+- Reviewing Pull Requests and checking whether or not new contributions meet the _Definition of Done_
 
-- Mentor newcomers
-- Ensure the new features match the project vision
-- Takes into account what the team is capable to deliver
-- Review Pull Requests & checks if it meets the Definition of Done
-
-Each project has the list of collaborators and his/her roles. Notice people might be contributing in his/her free time.
+We recognize and value everyone's contribution and time spent. We want our shared development efforts to be pleasant and productive. The following information will help you do that.
 
 ### How to become a contributor
 
-Quite straight forward, share your interest in implement a new feature or bug. We will give you commit access to the specific repository.
+We want you the add value, and know you have value to contribute. Share what you are interest in by implement a new feature or fixing one or more bugs. We will give you commit access to the specific repository.
 
 [Check the contributor resources](#contributor-resources)
 
 ### How to become a maintainer
 
-A maintainer is someone that shown commitment during a long period of time. It is granted as a merit of his/her contributions.
+A maintainer is someone who has shown commitment over a long period of time. A maintainer is granted such as a merit of her/his contributions.
 
 ### Reasons to remove a contributor/maintainer
 
@@ -35,10 +38,10 @@ TLDR: __Be kind with everybody__ :smile:
 
 ## Contributor resources
 
-- [Development][development]: Code guidelines, developing new feature requirements, pull request guidelines.
-- [Documentation][documentation]: Helping others find the knowledge. Create guides, source code examples, tutorials or making the public documentation [docs.vlingo.io][official-docs] more accessible.
-- [Automation / CI][automation]: Documenting the CI process. How to release vlingo components.
-- [Meetups/Workshops][workshops]: Resources to spread vlingo :loudspeaker:
+- [Development][development]: Code guidelines, developing new feature requirements, Pull Request guidelines.
+- [Documentation][documentation]: Helping others find the knowledge. Create guides, source code examples, tutorials, or writing component documentation [docs.vlingo.io][official-docs] and making knowledge more accessible.
+- [Automation / CI][automation]: Documenting the CI process. How to release vlingo/platform components.
+- [Meetups/Workshops][workshops]: Resources to spread the vlingo/platform joy! :loudspeaker:
 
 ## Communication
 
