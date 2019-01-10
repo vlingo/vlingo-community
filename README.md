@@ -5,6 +5,7 @@
 :warning: __Work in progress__ :warning:
 
 ## Vision
+
 The vlingo/platform is the Domain-Driven Design friendly open source distributed computing platform simplifying reactive, event-driven, microservices architectures.
 
 We aggressively advance software developer DDD and Reactive capabilities to help deliver excellent software solutions. We are committed to balancing the right technology choices with your essential and unique business vision. We champion simplicity, which requires special discipline and determination.
@@ -22,7 +23,7 @@ We recognize and value everyone's contribution and time spent. We want our share
 
 ### How to become a contributor
 
-We want you the add value, and know you have value to contribute. Share what you are interest in by implement a new feature or fixing one or more bugs. We will give you commit access to the specific repository.
+We want you the add value, and know you have value to contribute. Share what you are interest in by implement a new feature or fixing one or more bugs.
 
 [Check the contributor resources](#contributor-resources)
 

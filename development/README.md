@@ -12,28 +12,11 @@
   - If it's internal, a brief usage explanation on the same repository under `/docs` folder
   - Desired to have `javadocs` since they are published automatically to [javadoc.io/doc/io.vlingo/vlingo-actors][javadocs]
 
-## Branches convention
-
-Usually, a branch is because of a new feature or bug fix related to a specific issue. The branch name should help others know what they will find in it.
-
-- __Bug fix__: `fix/<ISSUE_NUMBER>/<short description>`
-- __Feature/Task__: `task/<ISSUE_NUMBER>/<short description>`
-
-With this schema, people could find the issue related to the branch + all the explanation.
-
-## Pull Request
-
-- A Pull Request must only solve one issue.
-- It should refer the issue in the title
-- Ask the component responsible for a review + all people you think it might interest it
-- In case there's something of the Definition of Done still pending, add a comment in the Pull Request to help the reviewer.
-- We often reply in the same day, but it might take longer.
-
 ## Code style
 
 ### General
 
-- Use __meaningful names__
+- Use __meaningful names__. Be verbose where it increases clarity.
 
 ### Visibility of Variables and Methods
 
@@ -49,11 +32,27 @@ With this schema, people could find the issue related to the branch + all the ex
 
 - Prefer __Immutability__. Use `final` always unless you do need make mutable state for a good reason.
 
+## Branches convention
+
+Usually, a branch is because of a new feature or bug fix related to a specific issue. The branch name should help others know what they will find in it.
+
+- __Bug fix__: `fix/<ISSUE_NUMBER>/<short description>`
+- __Feature/Task__: `task/<ISSUE_NUMBER>/<short description>`
+
+With this schema, people could find the issue related to the branch + all the explanation.
+
+## Pull Request
+
+- A Pull Request must only solve one issue.
+- It should refer the issue in the title.
+- Ask the component responsible for a review + all people you think it might interest it
+- In case there's something of the Definition of Done still pending, add a comment in the Pull Request to help the reviewer.
+
 ### Copyright
 
 Add the next copyright text on top of each Source File.
 
-```
+```text
 // Copyright © 2012-2018 Vaughn Vernon. All rights reserved.
 //
 // This Source Code Form is subject to the terms of the
