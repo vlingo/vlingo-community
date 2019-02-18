@@ -17,6 +17,7 @@
 ### General
 
 - Use __meaningful names__. Be verbose where it increases clarity.
+- Use [Google Java Style](https://github.com/google/google-java-format). IntellJ has a plugin that auto formats using Google Java Style.
 
 ### Visibility of Variables and Methods
 
