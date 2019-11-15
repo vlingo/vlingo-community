@@ -42,7 +42,7 @@ TLDR: __Be kind with everybody__ :smile:
 - [Development][development]: Code guidelines, developing new feature requirements, Pull Request guidelines.
 - [Documentation][documentation]: Helping others find the knowledge. Create guides, source code examples, tutorials, or writing component documentation [docs.vlingo.io][official-docs] and making knowledge more accessible.
 - [Automation / CI][automation]: Documenting the CI process. How to release vlingo/platform components.
-- [Meetups/Workshops][workshops]: Resources to spread the vlingo/platform joy! :loudspeaker:
+- [Meetups/Workshops][meetups]: Resources to spread the vlingo/platform joy! :loudspeaker:
 
 ## Communication
 
@@ -51,7 +51,7 @@ We aim to keep most of our communication in the public GitHub threads.
 [development]: development/README.md
 [documentation]: documentation/README.md
 [automation]: automation/README.md
-[workshops]: workshops/README.md
+[meetups]: meetups/README.md
 [official-docs]: https://docs.vlingo.io
 [vernon-gh]: https://github.com/VaughnVernon
 [coc]: CODE_OF_CONDUCT.md
